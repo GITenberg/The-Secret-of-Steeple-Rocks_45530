@@ -1,0 +1,30 @@
+_repo: The-Secret-of-Steeple-Rocks_45530
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45530-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Grove, Harriet Pyne
+    gutenberg_agent_id: '37167'
+    url: http://www.gutenberg.org/2009/agents/37167
+description: ''
+gutenberg_issued: '2014-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Immigrants -- Juvenile fiction'
+- !lcsh 'Smugglers -- Juvenile fiction'
+- !lcsh 'Prohibition -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Illegal aliens -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Marine caves -- Juvenile fiction'
+title: The Secret of Steeple Rocks
+url: http://www.gutenberg.org/ebooks/45530
